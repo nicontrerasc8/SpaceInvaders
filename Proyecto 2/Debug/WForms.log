@@ -1,0 +1,19 @@
+﻿  Controladora.cpp
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(6,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(7,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(9,89): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(9,56): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(10,75): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(10,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(21,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(36,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(41,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(63,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(86,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Controladora.cpp(134,20): warning C4018: '<': no coinciden signed/unsigned
+  NaveMala.cpp
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\NaveMala.cpp(32,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\NaveMala.cpp(37,20): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  Base.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  WForms.vcxproj -> C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Debug\WForms.exe

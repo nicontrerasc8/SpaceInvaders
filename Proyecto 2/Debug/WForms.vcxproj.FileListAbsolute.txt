@@ -1,0 +1,8 @@
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 1\Debug\WForms.vcxproj.AssemblyReference.cache
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 1\Debug\WForms.MyForm.resources
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 1\Debug\WForms.vcxproj.GenerateResource.cache
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 1\Debug\WForms.exe
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Debug\WForms.vcxproj.AssemblyReference.cache
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Debug\WForms.MyForm.resources
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Debug\WForms.vcxproj.GenerateResource.cache
+C:\Users\nicon\OneDrive\Escritorio\ProyectosWindowsForms\Proyecto 2\Debug\WForms.exe
